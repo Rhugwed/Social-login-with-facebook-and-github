@@ -1,7 +1,5 @@
 # Angular 8 Tutorial: Facebook and Github Login
 
-This source code is part of [Angular 8 Tutorial: Facebook Login](https://www.djamware.com/post/5d4628d5721e1ce9d7dc95b0/angular-8-tutorial-facebook-login).
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 ## Development server
