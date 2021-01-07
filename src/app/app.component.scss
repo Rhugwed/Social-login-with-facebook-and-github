@@ -1,0 +1,29 @@
+.example-container {
+  position: relative;
+  padding: 5px;
+  left: 20;
+  right: 20;
+  background-color: blue;
+}
+
+.example-loading-shade {
+  position: absolute;
+  top: 30;
+  left: 30;
+  bottom: 56px;
+  right: 30;
+  background: rgba(0, 0, 0, 0.15);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.example-card {
+  margin: 5px;
+  right: 30;
+  padding-bottom: 200px;
+  padding-left: 20;
+  padding-right: 20;
+}
+
